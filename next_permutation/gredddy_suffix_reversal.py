@@ -1,4 +1,12 @@
 
+"""
+Problem: Two Sum
+Approach: Greedy suffixix reversal
+Time Complexity: O(n)
+Space Complexity: O(1)
+Pattern: greedy suffix reversal
+"""
+
 def nextPermutation(arr):
     n = len(arr)
 
