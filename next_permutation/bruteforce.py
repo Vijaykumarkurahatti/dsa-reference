@@ -1,4 +1,12 @@
 
+"""
+Problem: Next permutation
+Approach: Brute Force
+Time Complexity: O(n²)
+Space Complexity: O(1)
+Pattern: Brute Force
+"""
+
 
 def nextPermutation(arr):
     n = len(arr)
